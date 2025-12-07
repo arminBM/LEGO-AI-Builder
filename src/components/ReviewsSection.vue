@@ -49,32 +49,32 @@
 const reviews = [
   {
     name: "Amir & Nika",
-    img: "/assets/amir-nika.png",
+    img: "./assets/amir-nika.png",
     text: "“Our kids love seeing their characters become real sets.”",
   },
   {
     name: "Maya",
-    img: "/assets/maya.png",
+    img: "./assets/maya.png",
     text: "“The AI Builder feels like magic. My hover-bike turned out perfect.”",
   },
   {
     name: "Jonas",
-    img: "/assets/jonas.png",
+    img: "./assets/jonas.png",
     text: "“Smart part suggestions saved me hours when planning MOCs.”",
   },
   {
     name: "Lila & Arman",
-    img: "/assets/lila-arman.png",
+    img: "./assets/lila-arman.png",
     text: "“We argued less and built more. The AI helps us collaborate.”",
   },
   {
     name: "Olivia",
-    img: "/assets/olivia.png",
+    img: "./assets/olivia.png",
     text: "“Kids adore seeing their designs printed as real boxes.”",
   },
   {
     name: "Diego",
-    img: "/assets/diego.png",
+    img: "./assets/diego.png",
     text: "“I built my robot and raced the digital version online.”",
   },
 ]

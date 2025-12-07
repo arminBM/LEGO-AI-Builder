@@ -2,7 +2,7 @@
     <Header/>
   <section 
     class="min-h-screen w-full bg-cover bg-center bg-no-repeat py-20 px-6"
-    style="background-image: url('/assets/builder-bg.jpeg')"
+    style="background-image: url('./assets/builder-bg.jpeg')"
   >
     <div class="max-w-[1000px] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10">
 

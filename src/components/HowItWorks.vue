@@ -8,7 +8,7 @@
     <div 
       class="absolute inset-0 opacity-50 pointer-events-none"
       style="
-        background-image: url('/public/assets/CartImg2.png');
+        background-image: url('./assets/CartImg2.png');
         background-size: 450px;
         background-position: center;
         background-repeat: repeat;

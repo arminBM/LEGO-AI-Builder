@@ -9,7 +9,7 @@
         activeBg === n ? 'opacity-100' : 'opacity-0'
       ]"
       :style="{
-        backgroundImage: `url('/assets/digital-${n}.jpg')`
+        backgroundImage: `url('./assets/digital-${n}.jpg')`
       }"
     ></div>
 

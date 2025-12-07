@@ -1,7 +1,7 @@
 <template>
   <Header />
   <div class="min-h-screen bg-[#FFF4CC] py-16"
-  style="background-image: url('/assets/CartImg2.png');"
+  style="background-image: url('./assets/CartImg2.png');"
   >
     <div class="max-w-6xl mx-auto px-6">
 

@@ -2,7 +2,7 @@
   <section
     id="builder"
     class="relative min-h-[90vh] flex items-center justify-center bg-cover bg-center"
-    style="background-image: url('/assets/HeroSectionImg.jpg');"
+    style="background-image: url('./assets/HeroSectionImg.jpg');"
   >
     <!-- DARK OVERLAY -->
     <div
