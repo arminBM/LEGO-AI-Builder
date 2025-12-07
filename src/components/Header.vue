@@ -13,13 +13,15 @@ const cart = useCartStore()
       <!-- LEFT SIDE -->
       <div class="flex items-center gap-8">
         <!-- Logo -->
-        <a href="/" class="flex items-center">
-          <img
+         <router-link to="/" class="flex items-center">
+ <img
             src="/assets/LOGO.png"
             alt="LEGO Logo"
             class="h-10 w-auto"
           />
-        </a>
+         </router-link>
+         
+     
 
         <!-- NAV LINKS -->
         <nav
