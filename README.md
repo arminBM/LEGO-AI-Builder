@@ -1,44 +1,58 @@
-# Lego Marketing
+# LEGO-Inspired Ecommerce Frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+A LEGO-inspired ecommerce frontend prototype built with Vue 3, Vue Router, Pinia, Vite, and TailwindCSS.
 
-## Recommended IDE Setup
+## Overview
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+This project is an unofficial LEGO-inspired ecommerce and custom set-builder frontend.
 
-## Recommended Browser Setup
+It was originally created as a university project for a friend. I helped rebuild and improve the project using Vue instead of a plain HTML and CSS structure.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+The application includes a marketing homepage, product-style sections, a custom set-builder interface, cart functionality, reusable Vue components, routing, and interactive UI elements.
 
-## Customize configuration
+The “AI builder” is a simulated frontend feature. It does not connect to a real AI model or external AI service. It generates sample concept data locally using the user’s prompt and randomized values.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Screenshots
 
-## Project Setup
+<p align="center">
+  <img src="./screenshots/home-page.png" width="800" alt="LEGO-inspired ecommerce homepage" />
+</p>
 
-```sh
-npm install
-```
+<p align="center">
+  <img src="./screenshots/builder-page.png" width="800" alt="Custom brick set builder page" />
+</p>
 
-### Compile and Hot-Reload for Development
+## Status
 
-```sh
-npm run dev
-```
+Course-related collaborative frontend prototype from 2025.
 
-### Compile and Minify for Production
+The repository is preserved to showcase Vue development, component-based architecture, routing, state management, frontend interactions, and ecommerce UI design.
 
-```sh
-npm run build
-```
+## My Role
 
-### Lint with [ESLint](https://eslint.org/)
+- Helped rebuild the original project from plain HTML and CSS into Vue
+- Worked on Vue component structure and page organization
+- Helped implement the custom set-builder interface
+- Implemented the simulated concept-generation feature
+- Worked on cart state management using Pinia
+- Added interactive UI behavior and frontend animations
+- Helped improve the visual layout and responsive structure
+- Contributed to the overall frontend implementation
 
-```sh
-npm run lint
-```
+## Tech Stack
+
+- Vue 3
+- JavaScript
+- Vue Router
+- Pinia
+- Vite
+- TailwindCSS
+- ESLint
+- Prettier
+
+## Notes
+
+- This is an unofficial fan-made project.
+- It is not affiliated with, sponsored by, or endorsed by the LEGO Group.
+- LEGO is a trademark of the LEGO Group.
+- The AI-style builder is simulated and does not use a real AI service.
